@@ -1,6 +1,6 @@
-## Hey 👋 I'm Andrew.
+## Heyy! I'm Andrew 👋
 
-You can find me on:
+You can learn more about me on:
 
 * My website [andrewp.netlify.app](https://andrewp.netlify.app)
 * Instagram as [@andrew.phhh__](https://www.instagram.com/andrew.phhh__/)
